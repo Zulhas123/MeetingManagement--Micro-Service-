@@ -1,0 +1,20 @@
+[
+  {
+    "ServiceId": "0c8ab7a3-9083-4ab1-9e0b-95191d572824",
+    "Name": "userservice",
+    "Host": "localhost",
+    "Port": 2001
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2838",
+    "Name": "meetingservice",
+    "Host": "localhost",
+    "Port": 2002
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2841",
+    "Name": "accessservice",
+    "Host": "localhost",
+    "Port": 2003
+  }
+]

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>4e754820-ffa9-465d-89c3-a9175059f439</UserSecretsId>    
+  </PropertyGroup>
+
+  <ItemGroup>    
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.3" />
+    <PackageReference Include="Ocelot" Version="18.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+</Project>
